@@ -1,0 +1,19 @@
+{
+  "name": "todobackend-specs",
+  "version": "0.1.0",
+  "description": "Todobackend Acceptance Tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Vince Sesto",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.2.0",
+    "superagent": "^3.3.2",
+    "superagent-promise": "^1.1.0"
+  }
+}
